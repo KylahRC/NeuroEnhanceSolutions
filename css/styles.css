@@ -111,13 +111,13 @@ hr {
   align-items: center;
 }
 
-@media screen and (max-width:800px) {
-  #bodyPanel {
-    font-size: x-large;
-    padding-left: 0%;
-    padding-right: 0%;
-    background-color: #B1C0AD;
-    padding-top: 80px;
-    /* Adjust this to match the height of the fixed heading */
+@media screen and (max-width:800px)
+{
+  #bodyPanel { 
+    font-size: x-large; 
+    padding-left: 0%; 
+    padding-right: 0%; 
+    background-color: #B1C0AD; 
+    padding-top: 80px; /* Adjust this to match the height of the fixed heading */ 
   }
 }
